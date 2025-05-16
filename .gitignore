@@ -1,0 +1,13 @@
+# Python 仮想環境・キャッシュ
+backend/venv/
+__pycache__/
+*.pyc
+
+# Node.js 依存
+frontend/node_modules/
+
+# macOS ゴミファイル
+.DS_Store
+
+# SQLite DBファイル（任意）
+backend/database.db
